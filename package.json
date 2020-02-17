@@ -1,5 +1,5 @@
 {
-  "name": "react-fetch-rest-api",
+  "name": "hacker-news-top-commenters",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

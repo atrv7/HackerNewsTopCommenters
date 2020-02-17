@@ -37,3 +37,4 @@ TBD
 5. Better Error handling (try/catches and error handling of requests)
 6. Further break down of react components into more modular elements
 7. Offline loading & caching (including possible pagination for list of stories)
+8. Improve UX and style application
