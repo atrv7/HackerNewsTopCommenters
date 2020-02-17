@@ -5,7 +5,11 @@ This project grabs the top news stories from HackerNews and displays the top com
 
 
 ## GETTING STARTED
+### `npm install`
 
+Install project dependencies
+
+## RUNNING THE APP
 ### `npm start`
 
 Runs the app in the development mode.<br />
@@ -32,7 +36,7 @@ TBD
 
 1. Learn and use TypeScript
 2. Testing: Automated testing, test cases, manual testing, etc..
-3. Webpack packaging/build for prod (minification, polyfills, etc...)
+3. Webpack packaging/build for prod (clean up unused packages, minification, polyfills, etc...)
 4. Better API sanitizaiton/validation
 5. Better Error handling (try/catches and error handling of requests)
 6. Further break down of react components into more modular elements
